@@ -136,7 +136,7 @@ Credentials were submitted in the **POST body**:
 This confirms successful **credential harvesting via packet sniffing**.
 
 
-## 9. Registration Data Leakage
+### 9. Registration Data Leakage
 <img width="1919" height="1076" alt="register_data" src="https://github.com/user-attachments/assets/1d33c991-6407-4aa4-86f4-240548e0caa3" />
 
 
@@ -151,7 +151,7 @@ The registration form exposed much more sensitive information:
 
 
 
-## 10. Captured Files Overview
+### 10. Captured Files Overview
 
 
 This `.pcap` file was generated during the exercise:  
