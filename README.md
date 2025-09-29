@@ -1,5 +1,5 @@
-# Network-Packet-Sniffing-and-Analysis
-Capture and analyze live network traffic to identify credentials or suspicious activity.
+# Capture and Analyze Network Traffic Using Wireshark.
+Capture live network packets and identify basic protocols and traffic types and credentials or suspicious activity.
 
 The goal of this task was to capture and analyze live network traffic in order to identify credentials or suspicious activity. Tools used include **Wireshark** and **tcpdump**.
 
